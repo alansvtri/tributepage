@@ -1,0 +1,34 @@
+#main {
+  font-family: Lato;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #e370ec;
+  color: #8320d7;
+}
+
+#title {
+  width: 100%;
+  text-align: center;
+}
+
+#img-div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #f3a4f9;
+  width: 99%;
+  justify-content: center;
+  height: 560px;
+}
+
+#tribute-info{
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
